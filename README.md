@@ -1,7 +1,7 @@
 # V0Finder
 Classes for V0, Xi and their finder
-Created by Egor Alpatov, 2020
-egroker1@gmail.com
+
+Created by Egor Alpatov, 2020, egroker1@gmail.com
 
 Copy this to your StRoot directory and compile via cons
 
